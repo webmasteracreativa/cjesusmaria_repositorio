@@ -1,0 +1,2011 @@
+# Copyright (C) 2017 aislin
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ed School 1.2.2\n"
+"Report-Msgid-Bugs-To: http://example.com/issues\n"
+"POT-Creation-Date: 2017-11-20 15:28:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-06-27 13:56+0000\n"
+"Last-Translator: Comunicaciones Colegio <webmaster@acreativa.com>\n"
+"Language-Team: \n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:14
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Esto es algo vergonzoso, ¿no?"
+
+#: 404.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Quizás la búsqueda "
+"puede ayudar."
+
+#: functions.php:28
+msgid "Error locating %s for inclusion"
+msgstr "Error al localizar %s para la inclusión"
+
+#: lib/activate-plugins.php:31
+msgid "Ed School Plugin"
+msgstr ""
+
+#: lib/activate-plugins.php:41
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: lib/activate-plugins.php:51
+msgid "Revolution Slider"
+msgstr "Control deslizante de Revolution"
+
+#: lib/activate-plugins.php:62
+msgid "Meta Box"
+msgstr ""
+
+#: lib/activate-plugins.php:67
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: lib/activate-plugins.php:72
+msgid "Contact Form 7"
+msgstr ""
+
+#: lib/activate-plugins.php:87
+msgid "Optimize Image"
+msgstr "Optimizar imagen "
+
+#: lib/activate-plugins.php:102
+msgid ""
+"If you are not able to complete plugin installation process due to server "
+"issues please install the plugins manually. All required plugins are located "
+"in \"extensions\" folder in your main download from Themeforest."
+msgstr ""
+"Si no puede completar el proceso de instalación del complemento debido a "
+"problemas con el servidor, instale los complementos manualmente. Todos los "
+"complementos necesarios se encuentran en la carpeta \"extensiones\" en la "
+"descarga principal desde Themeforest."
+
+#: lib/activate-plugins.php:103
+msgid ""
+"After you finish installing plugins go back to %s page to complete the "
+"installation."
+msgstr ""
+"Después de que termine de instalar complementos, vuelva a la página %s para "
+"completar la instalación."
+
+#: lib/activate-plugins.php:103 lib/activation.php:13
+msgid "Theme Activation"
+msgstr "Activación del tema "
+
+#: lib/activation.php:101
+msgid "%s Theme Activation"
+msgstr "%s Activación"
+
+#: lib/activation.php:102
+msgid "These videos cover installation and update process."
+msgstr "Estos videos cubren el proceso de instalación y actualización."
+
+#: lib/activation.php:114
+msgid "Update Instructions"
+msgstr "Instrucciones de actualización"
+
+#: lib/activation.php:117
+msgid "If you are updating the theme, please watch the video on the right."
+msgstr "Si está actualizando el tema, mire el video a la derecha."
+
+#: lib/activation.php:120
+msgid "Installation Steps"
+msgstr "Pasos de instalación "
+
+#: lib/activation.php:122
+msgid ""
+"These settings are optional and should usually be used only on a fresh "
+"installation."
+msgstr ""
+"Esta configuración es opcional y, por lo general, solo debe usarse en una "
+"instalación nueva"
+
+#: lib/activation.php:126 lib/activation.php:129
+msgid "Install required plugins"
+msgstr "Instalas los plugins requeridos"
+
+#: lib/activation.php:128
+msgid ""
+"First, enable required plugins. After you finish plugin installation return "
+"to this page to complete the installation process. Please note that "
+"WooCommerce is not required and if not installed demo products will not be "
+"imported"
+msgstr ""
+"Primero, habilite los complementos necesarios. Después de finalizar la "
+"instalación del complemento, regrese a esta página para completar el proceso "
+"de instalación. Tenga en cuenta que WooCommerce no es obligatorio y, si no "
+"se instala, los productos de prueba no se importarán."
+
+#: lib/activation.php:132
+msgid "Import demo content"
+msgstr "Importar contenido de demostración"
+
+#: lib/activation.php:134
+msgid "Proceed only after all plugins are installed"
+msgstr "Proceda solo después de que se hayan instalado todos los complementos"
+
+#: lib/activation.php:135
+msgid "Go to WordPress Importer"
+msgstr "Go to WordPress Importer"
+
+#: lib/activation.php:138
+msgid "Save Menus"
+msgstr "Guardar menús"
+
+#: lib/activation.php:139
+msgid "Go to WordPress Menus"
+msgstr "Ir a los menús de WordPress"
+
+#: lib/activation.php:142
+msgid "Select Front and Posts page"
+msgstr "Seleccionar la página frontal y la de publicaciones"
+
+#: lib/activation.php:143
+msgid "Go to WordPress Reading Settings"
+msgstr "Ir a la configuración de lectura de WordPress"
+
+#: lib/activation.php:146
+msgid "Import demo sliders"
+msgstr "Importar controles deslizantes de demostración"
+
+#: lib/activation.php:148
+msgid "Go to Revolution Slider Importer"
+msgstr ""
+
+#: lib/activation.php:150
+msgid ""
+"In order to import demo sliders you need to install and activate Revolution "
+"Slider plugin"
+msgstr ""
+"Para importar controles deslizantes de demostración, debe instalar y activar "
+"el plugin Revolution Slider"
+
+#: lib/activation.php:166
+msgid "Import Theme Options"
+msgstr "Importar opciones de el Tema "
+
+#: lib/activation.php:177
+msgid "Sidebar widgets"
+msgstr "Widgets de la barra lateral"
+
+#: lib/activation.php:198 lib/envato_setup/envato_setup.php:774
+msgid "Important!"
+msgstr "¡Importante! "
+
+#: lib/activation.php:201 lib/envato_setup/envato_setup.php:777
+msgid "WordPress 3.1 or higher"
+msgstr "WordPress 3.1 o superior"
+
+#: lib/activation.php:202 lib/envato_setup/envato_setup.php:778
+msgid "PHP5.4 or higher"
+msgstr "PHP5.4 o Superior"
+
+#: lib/activation.php:203 lib/envato_setup/envato_setup.php:779
+msgid "and mysql 5 or higher"
+msgstr ""
+
+#: lib/activation.php:206 lib/envato_setup/envato_setup.php:782
+msgid ""
+"Many issues that you may run into such as: white screen, demo content fails "
+"when importing and other similar issues are all related to low PHP "
+"configuration limits. The solution is to increase the PHP limits. You can do "
+"this on your own, or contact your web host and ask them to increase those "
+"limits to a minimum as follows:"
+msgstr ""
+"Muchos problemas con los que puede encontrarse, tales como: la pantalla en "
+"blanco, el contenido de demostración falla al importar y otros problemas "
+"similares están todos relacionados con los bajos límites de configuración de "
+"PHP. La solución es aumentar los límites de PHP. Puede hacerlo por su cuenta "
+"o ponerse en contacto con su proveedor de alojamiento web y solicitarle que "
+"aumente esos límites al mínimo de la siguiente manera:"
+
+#: lib/activation.php:209 lib/envato_setup/envato_setup.php:785
+msgid "max_execution_time 180"
+msgstr ""
+
+#: lib/activation.php:210 lib/envato_setup/envato_setup.php:786
+msgid "memory_limit 128M"
+msgstr "Limite de memoria 128M"
+
+#: lib/activation.php:211 lib/envato_setup/envato_setup.php:787
+msgid "post_max_size 32M"
+msgstr "post_max_size 32M"
+
+#: lib/activation.php:212 lib/envato_setup/envato_setup.php:788
+msgid "upload_max_filesize 32M"
+msgstr "El_tamaño_de_archivo_máximo_es_de_32MB"
+
+#: lib/activation.php:214 lib/envato_setup/envato_setup.php:790
+msgid ""
+"We have tested it with Mac, Windows and Linux. Below is a list of items you "
+"should ensure your host can comply with:"
+msgstr ""
+"Lo hemos probado con Mac, Windows y Linux. A continuación se muestra una "
+"lista de elementos que debe garantizar el hospedador"
+
+#: lib/activation.php:216 lib/envato_setup/envato_setup.php:792
+msgid ""
+"Check to ensure that your web host has the minimum requirements to run "
+"WordPress."
+msgstr ""
+"Verifique para asegurarse de que su servidor web tenga los requisitos "
+"mínimos para ejecutar WordPress."
+
+#: lib/activation.php:217 lib/envato_setup/envato_setup.php:793
+msgid "Always make sure they are running the latest version of WordPress."
+msgstr "Asegúrese de que estén ejecutando la última versión de WordPress"
+
+#: lib/activation.php:219 lib/envato_setup/envato_setup.php:795
+msgid "Always create secure passwords for FTP and Database."
+msgstr "Siempre cree contraseñas seguras para FTP y base de datos."
+
+#: lib/activation.php:221
+msgid ""
+"Visual Composer and Layer Slider plugins are included with the theme but you "
+"do not get purchase codes for these plugins."
+msgstr ""
+"Visual Composer y Layer Sliderestán incluidos con el tema, pero no obtienes "
+"códigos de compra para estos plugins."
+
+#: lib/activation.php:224 lib/envato_setup/envato_setup.php:800
+msgid ""
+"That means that automatic updates for the plugins will not be available to "
+"you unless you buy a regular license for the plugin. We do not recommend "
+"that you buy regular licenses for the plugins because they will be updated "
+"with theme updates."
+msgstr ""
+"Esto significa que las actualizaciones automáticas para los complementos no "
+"estarán disponibles para usted a menos que compre una licencia regular para "
+"el complemento. No recomendamos que compre licencias regulares para los "
+"complementos porque se actualizarán con actualizaciones de temas."
+
+#: lib/activation.php:230 lib/envato_setup/envato_setup.php:806
+msgid "Check System Status page"
+msgstr "Verifique en la página el estado del sistema"
+
+#: lib/envato_setup/envato_setup.php:382 lib/envato_setup/envato_setup.php:387
+msgid "Setup Wizard"
+msgstr "Asistente de configuración"
+
+#: lib/envato_setup/envato_setup.php:407
+msgid "Introduction"
+msgstr "Introducción"
+
+#: lib/envato_setup/envato_setup.php:413
+msgid "Requirements"
+msgstr "Requisitos"
+
+#: lib/envato_setup/envato_setup.php:419
+msgid "Plugins"
+msgstr "Plugins"
+
+#: lib/envato_setup/envato_setup.php:425
+msgid "Updates"
+msgstr "Actualizaciones "
+
+#: lib/envato_setup/envato_setup.php:431
+msgid "Style"
+msgstr "Estilo"
+
+#: lib/envato_setup/envato_setup.php:437 lib/redux/options.php:1206
+msgid "Content"
+msgstr "Contenido "
+
+#: lib/envato_setup/envato_setup.php:442
+msgid "Slider"
+msgstr "Contro deslizante "
+
+#: lib/envato_setup/envato_setup.php:452
+msgid "Customize"
+msgstr "Personalizar "
+
+#: lib/envato_setup/envato_setup.php:457
+msgid "Support"
+msgstr "Soporte"
+
+#: lib/envato_setup/envato_setup.php:462
+msgid "Ready!"
+msgstr "¡Listo!"
+
+#: lib/envato_setup/envato_setup.php:495
+msgid "...verifying"
+msgstr "...verificando"
+
+#: lib/envato_setup/envato_setup.php:550
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr "Tema > Asistente de configuración de temas"
+
+#: lib/envato_setup/envato_setup.php:583
+msgid "Return to the WordPress Dashboard"
+msgstr "Regrese al tablero de WordPress"
+
+#: lib/envato_setup/envato_setup.php:665 lib/envato_setup/envato_setup.php:676
+#: lib/envato_setup/envato_setup.php:699
+msgid "Welcome to the setup wizard for %s."
+msgstr "Bienvenido al asistente de configuración para %s"
+
+#: lib/envato_setup/envato_setup.php:666
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+"Parece que recientemente se actualizó a este tema. ¡Estupendo! Este "
+"asistente de configuración ayudará a garantizar que todas las "
+"configuraciones predeterminadas sean correctas. También mostrará cierta "
+"información sobre su nuevo sitio web y opciones de soporte."
+
+#: lib/envato_setup/envato_setup.php:669 lib/envato_setup/envato_setup.php:704
+msgid "Let's Go!"
+msgstr "¡Vamonos!"
+
+#: lib/envato_setup/envato_setup.php:671 lib/envato_setup/envato_setup.php:706
+msgid "Not right now"
+msgstr "No ahora"
+
+#: lib/envato_setup/envato_setup.php:677
+msgid ""
+"It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+"Parece que ya ha ejecutado el asistente de configuración. A continuación hay "
+"algunas opciones"
+
+#: lib/envato_setup/envato_setup.php:681
+msgid "Run Setup Wizard Again"
+msgstr "Ejecute el asistente de configuración de nuevo"
+
+#: lib/envato_setup/envato_setup.php:694
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: lib/envato_setup/envato_setup.php:700
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+"Gracias por elegir el tema \"% s\" de ThemeForest. Este asistente de "
+"configuración rápida lo ayudará a configurar su nuevo sitio web. Este "
+"asistente instalará los complementos necesarios de WordPress, el contenido "
+"predeterminado, el logotipo y le contará un poco sobre la Ayuda \"y amp\"; "
+"Opciones de soporte Solo debería tomar 5 minutos."
+
+#: lib/envato_setup/envato_setup.php:701
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+"No hay tiempo en este momento? Si no desea utilizar el asistente, puede "
+"omitir y regresar al panel de WordPress. ¡Vuelve en cualquier momento si "
+"cambias de opinión!"
+
+#: lib/envato_setup/envato_setup.php:750
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+"Las opciones se han restablecido. Vaya a apariencia> personalizar en el "
+"backend de WordPress."
+
+#: lib/envato_setup/envato_setup.php:768
+msgid ""
+"Befeore proceeding, please watch installation video and read the "
+"requirements bellow"
+msgstr ""
+"Antes de continuar, revise el video de instalación y después lea los "
+"requisitos. "
+
+#: lib/envato_setup/envato_setup.php:797
+msgid ""
+"Visual Composer and Revolution Slider plugins are included with the theme "
+"but you do not get purchase codes for these plugins."
+msgstr ""
+"Visual Composer y Revolution Slider están incluidos con el tema, pero no "
+"obtienes códigos de compra para estos plugins. "
+
+#: lib/envato_setup/envato_setup.php:812 lib/envato_setup/envato_setup.php:925
+#: lib/envato_setup/envato_setup.php:1014
+#: lib/envato_setup/envato_setup.php:1056
+#: lib/envato_setup/envato_setup.php:1236
+#: lib/envato_setup/envato_setup.php:2545
+#: lib/envato_setup/envato_setup.php:2617
+#: lib/envato_setup/envato_setup.php:2701
+#: lib/envato_setup/envato_setup.php:2762
+msgid "Continue"
+msgstr "Continuar"
+
+#: lib/envato_setup/envato_setup.php:884
+msgid "Default Plugins"
+msgstr "Plugins determinados "
+
+#: lib/envato_setup/envato_setup.php:891
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+"Su sitio web necesita algunos complementos esenciales. Se instalarán o "
+"actualizarán los siguientes complementos:"
+
+#: lib/envato_setup/envato_setup.php:917
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+"¡Buenas noticias! Todos los complementos ya están instalados y actualizados. "
+"Por favor continua."
+
+#: lib/envato_setup/envato_setup.php:920
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr "Puede agregar y eliminar complementos más adelante desde WordPress."
+
+#: lib/envato_setup/envato_setup.php:927 lib/envato_setup/envato_setup.php:1016
+#: lib/envato_setup/envato_setup.php:1058
+#: lib/envato_setup/envato_setup.php:1238
+#: lib/envato_setup/envato_setup.php:2547
+#: lib/envato_setup/envato_setup.php:2619
+#: lib/envato_setup/envato_setup.php:2717
+msgid "Skip this step"
+msgstr "Saltar este paso"
+
+#: lib/envato_setup/envato_setup.php:937
+msgid "No Slug Found"
+msgstr "No se encontro el enlace"
+
+#: lib/envato_setup/envato_setup.php:953
+msgid "Activating Plugin"
+msgstr "Activando el complemento"
+
+#: lib/envato_setup/envato_setup.php:968
+msgid "Updating Plugin"
+msgstr "Actualizando Plugin "
+
+#: lib/envato_setup/envato_setup.php:983
+msgid "Installing Plugin"
+msgstr "Instalando plugin"
+
+#: lib/envato_setup/envato_setup.php:993 lib/envato_setup/envato_setup.php:1078
+msgid "Success"
+msgstr "Éxito "
+
+#: lib/envato_setup/envato_setup.php:1008
+msgid "Please select Revolution slider to import"
+msgstr "Seleccione el Slider Revolution a importar"
+
+#: lib/envato_setup/envato_setup.php:1035
+msgid "Please select which sliders to import"
+msgstr "Seleccione qué sliders importar"
+
+#: lib/envato_setup/envato_setup.php:1068
+#: lib/envato_setup/envato_setup.php:1113
+#: lib/envato_setup/envato_setup.php:1317
+msgid "Error"
+msgstr "Error"
+
+#: lib/envato_setup/envato_setup.php:1084
+msgid "No Slider Found"
+msgstr "No se encontró la barra lateral "
+
+#: lib/envato_setup/envato_setup.php:1152
+msgid "This will create default %s as seen in the demo."
+msgstr "Esto creará %s por defecto como se ve en la demostración."
+
+#: lib/envato_setup/envato_setup.php:1153
+#: lib/envato_setup/envato_setup.php:1166
+#: lib/envato_setup/envato_setup.php:1176
+#: lib/envato_setup/envato_setup_init.php:70
+msgid "Pending."
+msgstr "Pendiente"
+
+#: lib/envato_setup/envato_setup.php:1154
+msgid "Installing."
+msgstr "Instalar"
+
+#: lib/envato_setup/envato_setup.php:1155
+#: lib/envato_setup/envato_setup.php:1168
+#: lib/envato_setup/envato_setup.php:1178
+#: lib/envato_setup/envato_setup_init.php:72
+msgid "Success."
+msgstr "Éxito "
+
+#: lib/envato_setup/envato_setup.php:1164
+msgid "Widgets"
+msgstr ""
+
+#: lib/envato_setup/envato_setup.php:1165
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+"Inserte los widgets de barra lateral predeterminados como se ve en la "
+"demostración"
+
+#: lib/envato_setup/envato_setup.php:1167
+msgid "Installing Default Widgets."
+msgstr "Instalando Widgets por defecto "
+
+#: lib/envato_setup/envato_setup.php:1174 lib/redux/options.php:1640
+msgid "Settings"
+msgstr "Configuraciones "
+
+#: lib/envato_setup/envato_setup.php:1175
+msgid "Configure default settings."
+msgstr "Configurar las ajustes predeterminados"
+
+#: lib/envato_setup/envato_setup.php:1177
+msgid "Installing Default Settings."
+msgstr "Instalando configuraciones por defecto "
+
+#: lib/envato_setup/envato_setup.php:1195
+msgid "Default Content"
+msgstr "Contenido predeterminado "
+
+#: lib/envato_setup/envato_setup.php:1198
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+"Parece que ya tiene contenido instalado en este sitio web. Si también desea "
+"instalar el contenido de demostración predeterminado, puede seleccionarlo a "
+"continuación. De lo contrario, simplemente elija la opción de actualización "
+"para asegurarse de que todo esté actualizado."
+
+#: lib/envato_setup/envato_setup.php:1200
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can be "
+"managed from the WordPress admin dashboard. "
+msgstr ""
+"Es hora de insertar un contenido predeterminado para su nuevo sitio web de "
+"WordPress. Elija lo que desea insertar a continuación y haga clic en "
+"Continuar. Se recomienda dejar todo seleccionado. Una vez insertado, este "
+"contenido puede administrarse desde el panel de administración de WordPress."
+
+#: lib/envato_setup/envato_setup.php:1206
+msgid "Item"
+msgstr "Artículos"
+
+#: lib/envato_setup/envato_setup.php:1207
+msgid "Description"
+msgstr "Descripción "
+
+#: lib/envato_setup/envato_setup.php:1208
+msgid "Status"
+msgstr "Estado"
+
+#: lib/envato_setup/envato_setup.php:1249
+msgid "No content Found"
+msgstr "No se encontró contenido"
+
+#: lib/envato_setup/envato_setup.php:2239
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no respondió"
+
+#: lib/envato_setup/envato_setup.php:2247
+msgid "Remote file is incorrect size"
+msgstr "El archivo remoto es de tamaño incorrecto"
+
+#: lib/envato_setup/envato_setup.php:2253
+msgid "Zero size file downloaded"
+msgstr "Archivo Zero size descargado "
+
+#: lib/envato_setup/envato_setup.php:2259
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo remoto es demasiado grande, el límite es %s"
+
+#: lib/envato_setup/envato_setup.php:2513
+msgid "Site Style"
+msgstr "Estilo del sitio "
+
+#: lib/envato_setup/envato_setup.php:2515
+msgid "Please choose your site style below."
+msgstr "Por favor, elija el estilo de su sitio a continuación."
+
+#: lib/envato_setup/envato_setup.php:2576 lib/redux/options.php:443
+#: lib/redux/options.php:689
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/envato_setup/envato_setup.php:2578
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 466 by 277 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard. Try %sEnvato "
+"Studio%s if you need a new logo designed."
+msgstr ""
+"Por favor agregue su logotipo a continuación. Para obtener los mejores "
+"resultados, el logotipo debe ser un PNG transparente (466 por 277 píxeles). "
+"El logotipo se puede cambiar en cualquier momento desde el área Apariencia> "
+"Personalizar de su tablero de instrumentos. Pruebe  %sEnvato Studio%s si "
+"necesita un nuevo logotipo diseñado."
+
+#: lib/envato_setup/envato_setup.php:2598
+msgid "Upload New Logo"
+msgstr "Subir un nuevo logo"
+
+#: lib/envato_setup/envato_setup.php:2673
+msgid "Theme Updates"
+msgstr "Actualizaciones del tema "
+
+#: lib/envato_setup/envato_setup.php:2706
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+"Inicie sesión con su cuenta de ThemeForest para habilitar las "
+"actualizaciones de temas. Actualizamos los temas cuando se agrega una nueva "
+"característica o se corrige un error. Se recomienda encarecidamente "
+"habilitar las actualizaciones de temas."
+
+#: lib/envato_setup/envato_setup.php:2715
+msgid "Login with Envato"
+msgstr "Iniciar sesión con Envato"
+
+#: lib/envato_setup/envato_setup.php:2795
+msgid "Agree and Continue"
+msgstr "Aceptar y continuar"
+
+#: lib/envato_setup/envato_setup.php:2823
+msgid "Your Website is Ready!"
+msgstr "¡Tu sitio web está listo! "
+
+#: lib/envato_setup/envato_setup.php:2834
+msgid "Next Steps"
+msgstr "Próximos pasos"
+
+#: lib/envato_setup/envato_setup.php:2838
+msgid "Follow @aislinthemes on Twitter"
+msgstr ""
+
+#: lib/envato_setup/envato_setup.php:2841
+msgid "View your new website!"
+msgstr "¡Vea su nuevo sitio web!"
+
+#: lib/envato_setup/envato_setup.php:2846
+msgid "More Resources"
+msgstr "Más recursos "
+
+#: lib/envato_setup/envato_setup.php:2853
+msgid "Learn how to use WordPress"
+msgstr "Aprende a usar WordPress"
+
+#: lib/envato_setup/envato_setup.php:2856
+msgid "Leave an Item Rating"
+msgstr "Deje un puntaje del artículo"
+
+#: lib/envato_setup/envato_setup.php:2858
+msgid "Get Help and Support"
+msgstr ""
+
+#: lib/envato_setup/envato_setup.php:2926
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr "Algo salió mal al intentar recuperar el token oauth: %s"
+
+#: lib/envato_setup/envato_setup.php:2943
+msgid "Login for %s updates"
+msgstr "Inicie sesión para las actualizaciones %s"
+
+#: lib/envato_setup/envato_setup.php:2950
+msgid "oAuth Login"
+msgstr ""
+
+#: lib/envato_setup/envato_setup.php:3107
+msgid ""
+"Please activate ThemeForest updates to ensure you have the latest version of "
+"this theme."
+msgstr ""
+"Active las actualizaciones de ThemeForest para asegurarse de tener la última "
+"versión de este tema."
+
+#: lib/envato_setup/envato_setup.php:3111
+msgid "<a class=\"button button-primary\" href=\"%s\">Activate Updates</a>"
+msgstr ""
+"<a class=\"button button-primary\" href=\"%s\">Activar Actualizaciones</a>"
+
+#: lib/envato_setup/envato_setup_init.php:68
+msgid "Upgrade"
+msgstr "Mejorar"
+
+#: lib/envato_setup/envato_setup_init.php:69
+msgid "Upgrade Content and Settings"
+msgstr "Actualizar contenido y configuración"
+
+#: lib/envato_setup/envato_setup_init.php:71
+msgid "Installing Updates."
+msgstr "Instalando actualizaciones "
+
+#: lib/extras.php:129
+msgid "Sticky"
+msgstr "Adhesivo"
+
+#. Translators: used between list items, there is a space after the comma.
+#: lib/extras.php:137 lib/extras.php:143
+msgid ", "
+msgstr ", "
+
+#: lib/extras.php:151
+msgid "by"
+msgstr "de"
+
+#: lib/extras.php:152 templates/author-bio.php:18
+msgid "View all posts by %s"
+msgstr "Ver todos los post \"%s\""
+
+#: lib/extras.php:161
+msgid " Comments"
+msgstr "Comentarios"
+
+#: lib/extras.php:163
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: lib/extras.php:191
+msgid "Permalink to %s"
+msgstr "Link permanente %s"
+
+#: lib/extras.php:267
+msgid "Browse:"
+msgstr "Busca"
+
+#. Template Name of the plugin/theme
+msgid "Home"
+msgstr ""
+
+#: lib/extras.php:270
+msgid "404 Not Found"
+msgstr "Error 404"
+
+#: lib/extras.php:271
+msgid "Archives"
+msgstr "Archivos"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: lib/extras.php:273
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados de búsqueda para &#8220;%s&#8221;"
+
+#. Translators: %s is the page number.
+#: lib/extras.php:275
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/extras.php:277
+msgid "Minute %s"
+msgstr "Minutos %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/extras.php:279
+msgid "Week %s"
+msgstr "Semana %s"
+
+#: lib/init.php:28
+msgid "Primary Navigation"
+msgstr "Navegacion principal"
+
+#: lib/init.php:31
+msgid "Secondary Navigation"
+msgstr "Navegación secundaria"
+
+#: lib/init.php:34
+msgid "Mobile Navigation"
+msgstr "Navegación móvil "
+
+#: lib/init.php:37
+msgid "Quick Sidebar Navigation"
+msgstr "Navegación rápida de la barra lateral"
+
+#: lib/init.php:40
+msgid "Custom Navigation 1"
+msgstr "Navegación personalizada 1"
+
+#: lib/init.php:43
+msgid "Custom Navigation 2"
+msgstr "Navegación personalizada 2"
+
+#: lib/init.php:46
+msgid "Custom Navigation 3"
+msgstr "Navegación personalizada 3"
+
+#: lib/init.php:79
+msgid "Primary"
+msgstr "Principal"
+
+#: lib/init.php:88
+msgid "Child Pages"
+msgstr "Páginas de niños"
+
+#: lib/metaboxes.php:16
+msgid "Job Title"
+msgstr "Título profesional"
+
+#: lib/metaboxes.php:17 lib/metaboxes.php:29 lib/metaboxes.php:35
+msgid "This will be printed in Teacher Widget"
+msgstr "Esto se imprimirá en el widget del maestro"
+
+#: lib/metaboxes.php:22
+msgid "Location"
+msgstr "Ubicación"
+
+#: lib/metaboxes.php:23
+msgid "Printed only on teacher single page"
+msgstr "Impreso solo en la página individual del docente"
+
+#: lib/metaboxes.php:28
+msgid "Summary"
+msgstr "Resumen "
+
+#: lib/metaboxes.php:34
+msgid "Social Icon Shortcodes"
+msgstr "Códigos cortos del icono social"
+
+#: lib/metaboxes.php:40
+msgid "Hover Image"
+msgstr ""
+
+#: lib/metaboxes.php:41
+msgid "Image that will be shown on hover."
+msgstr "Imagen que se mostrará al desplazarse."
+
+#: lib/metaboxes.php:72
+msgid "Subtitle"
+msgstr "Subtitulo"
+
+#: lib/metaboxes.php:77
+msgid "Use Custom Menu"
+msgstr "Use Custom Menu"
+
+#: lib/metaboxes.php:78
+msgid ""
+"When using one page menu functionality you need to add an id on each vc row "
+"you want to link to a menu item. Also you need to create a menu in "
+"Appearance/Menus and create custom links where each link url has the same "
+"name as the row class prefixed with # sign"
+msgstr ""
+"Al usar la funcionalidad del menú de una página, debe agregar una "
+"identificación en cada fila de vc que quiera vincular a un elemento del menú."
+" También debe crear un menú en Apariencia / Menús y crear enlaces "
+"personalizados donde cada URL de enlace tenga el mismo nombre que la clase "
+"de fila con el prefijo #."
+
+#: lib/metaboxes.php:83
+msgid "Select Custom Menu Location"
+msgstr "Seleccione la ubicación del menú personalizado"
+
+#: lib/metaboxes.php:84
+msgid ""
+"Used only if Use Custom Menu is checked. It overrides Primary Navigation."
+msgstr ""
+"Se usa solo si se selecciona Usar menú personalizado. Anula la navegación "
+"primaria."
+
+#: lib/metaboxes.php:91
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: lib/metaboxes.php:92
+msgid ""
+"Use it to override the logo from theme options. This works well when using "
+"Transparent Header Template."
+msgstr ""
+"Úselo para anular el logotipo de las opciones del tema. Esto funciona bien "
+"cuando se utiliza la Plantilla de encabezado transparente."
+
+#: lib/metaboxes.php:98
+msgid "Custom Page Title Background"
+msgstr "Fondo de título de página personalizado"
+
+#: lib/metaboxes.php:99
+msgid "Use it to override the page title background image from theme options."
+msgstr ""
+"Úselo para anular la imagen de fondo del título de la página desde las "
+"opciones del tema"
+
+#: lib/redux/options.php:18
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: lib/redux/options.php:25
+msgid "Header Layout Block"
+msgstr "Bloque de diseño de encabezado"
+
+#: lib/redux/options.php:32
+msgid "Mobile Header Layout Block"
+msgstr "Bloque de diseño de encabezado móvil"
+
+#: lib/redux/options.php:39
+msgid "Footer Layout Block"
+msgstr ""
+
+#: lib/redux/options.php:46
+msgid "Quick Sidebar Layout Block"
+msgstr "Bloque de diseño rápido de la barra lateral"
+
+#: lib/redux/options.php:53
+msgid "Header Mobile Show Bellow"
+msgstr ""
+
+#: lib/redux/options.php:54
+msgid ""
+"Set the width of the screen in px bellow which the Mobile header is shown."
+msgstr ""
+"Establezca el ancho de la pantalla en px debajo de lo que se muestra el "
+"encabezado móvil."
+
+#: lib/redux/options.php:63
+msgid "Custom Thumbnail Sizes"
+msgstr "Tamaños de miniatura personalizados"
+
+#: lib/redux/options.php:64
+msgid "Pipe separated list of custom thumbnail size names and sizes."
+msgstr ""
+"Lista separada por tuberías de nombres y tamaños de tamaño de miniatura "
+"personalizados"
+
+#: lib/redux/options.php:82
+msgid "Styling"
+msgstr "Estilizar"
+
+#: lib/redux/options.php:87
+msgid "Global Accent Color"
+msgstr ""
+
+#: lib/redux/options.php:88 lib/redux/options.php:107
+msgid "This color will be used accross the site."
+msgstr "Este color se usará en todo el sitio."
+
+#: lib/redux/options.php:97
+msgid "Global Accent Color Elements"
+msgstr ""
+
+#: lib/redux/options.php:98
+msgid ""
+"This is where you set what site elements will be affected by Global Accent "
+"Color."
+msgstr ""
+"Aquí es donde establece qué elementos del sitio se verán afectados por "
+"Global Accent Color."
+
+#: lib/redux/options.php:106
+msgid "Global Accent Color 2"
+msgstr ""
+
+#: lib/redux/options.php:116
+msgid "Global Accent Color 2 Elements"
+msgstr ""
+
+#: lib/redux/options.php:117
+msgid ""
+"This is where you set what site elements will be affected by Global Accent "
+"Color 2."
+msgstr ""
+"Aquí es donde establece qué elementos del sitio se verán afectados por "
+"Global Accent Color 2."
+
+#: lib/redux/options.php:125
+msgid "Custom CSS Code"
+msgstr "Código CSS personalizado"
+
+#: lib/redux/options.php:126
+msgid "Paste your CSS code here."
+msgstr "Pega tu código CSS aquí."
+
+#: lib/redux/options.php:144
+msgid "Body"
+msgstr "Cuerpo"
+
+#: lib/redux/options.php:151
+msgid "Container Width"
+msgstr "Ancho del contenedor"
+
+#: lib/redux/options.php:164
+msgid "Boxed Outer Container Width"
+msgstr "Ancho del contenedor externo en caja"
+
+#: lib/redux/options.php:165
+msgid "This is only applicable when \"Boxed\" page template is used."
+msgstr ""
+"Esto solo es aplicable cuando se usa la plantilla de página \"Enmarcada\"."
+
+#: lib/redux/options.php:178 lib/redux/options.php:434
+#: lib/redux/options.php:704 lib/redux/options.php:917
+#: lib/redux/options.php:1213 lib/redux/options.php:1485
+msgid "Background"
+msgstr "Fondo"
+
+#: lib/redux/options.php:183 lib/redux/options.php:1029
+msgid "Font"
+msgstr ""
+
+#: lib/redux/options.php:184
+msgid "Specify the body font properties."
+msgstr "Especifique las propiedades de la fuente del cuerpo"
+
+#: lib/redux/options.php:200
+msgid "Link Color"
+msgstr "Enlaces de color"
+
+#: lib/redux/options.php:215 lib/redux/options.php:1082
+#: lib/redux/options.php:1223
+msgid "Padding"
+msgstr "Relleno "
+
+#: lib/redux/options.php:216
+msgid ""
+"This is where you select a padding for all layout elements. For widgets "
+"compiled from a page you need to set the padding on each widget."
+msgstr ""
+"Aquí es donde selecciona un relleno para todos los elementos de diseño. Para "
+"los widgets compilados desde una página, debe configurar el relleno de cada "
+"widget."
+
+#: lib/redux/options.php:232
+msgid "Headings"
+msgstr "Encabezados"
+
+#: lib/redux/options.php:237
+msgid "H1"
+msgstr ""
+
+#: lib/redux/options.php:254
+msgid "H1 Margin"
+msgstr ""
+
+#: lib/redux/options.php:266
+msgid "H2"
+msgstr ""
+
+#: lib/redux/options.php:283
+msgid "H2 Margin"
+msgstr ""
+
+#: lib/redux/options.php:295
+msgid "H3"
+msgstr ""
+
+#: lib/redux/options.php:312
+msgid "H3 Margin"
+msgstr ""
+
+#: lib/redux/options.php:324
+msgid "H4"
+msgstr ""
+
+#: lib/redux/options.php:341
+msgid "H4 Margin"
+msgstr ""
+
+#: lib/redux/options.php:353
+msgid "H5"
+msgstr ""
+
+#: lib/redux/options.php:370
+msgid "H5 Margin"
+msgstr ""
+
+#: lib/redux/options.php:382
+msgid "H6"
+msgstr ""
+
+#: lib/redux/options.php:399
+msgid "H6 Margin"
+msgstr ""
+
+#: lib/redux/options.php:417
+msgid "Header"
+msgstr ""
+
+#: lib/redux/options.php:423
+msgid "Header Location"
+msgstr "Ubicación del encabezado"
+
+#: lib/redux/options.php:435
+msgid "Pick a background color for the header"
+msgstr "Elija un color de fondo para el encabezado"
+
+#: lib/redux/options.php:446
+msgid "Upload logo"
+msgstr "Subir logo"
+
+#: lib/redux/options.php:452
+msgid "Header Border Bottom"
+msgstr "Parte inferior del borde del encabezado"
+
+#: lib/redux/options.php:467
+msgid "Menu Alignment"
+msgstr "Alineación de menú"
+
+#: lib/redux/options.php:478
+msgid "Override Header Padding"
+msgstr "Anular el relleno del encabezado"
+
+#: lib/redux/options.php:492
+msgid "Header Padding"
+msgstr "Relleno del encabezado"
+
+#: lib/redux/options.php:512
+msgid "Main Menu"
+msgstr "Menú principal "
+
+#: lib/redux/options.php:517
+msgid "Top Level Items Typography"
+msgstr "Tipografía de elementos de nivel superior"
+
+#: lib/redux/options.php:540
+msgid "Subitems Typography"
+msgstr "Subitems de la tipografía"
+
+#: lib/redux/options.php:565
+msgid "Menu Item Link Color"
+msgstr "Color de enlace de elemento de menú"
+
+#: lib/redux/options.php:583
+msgid "Menu Item Hover Background"
+msgstr "Elemento de menú emergente"
+
+#: lib/redux/options.php:584 lib/redux/options.php:635
+msgid "Pick a background color for the menu item on hover."
+msgstr "Pick a background color for the menu item on hover"
+
+#: lib/redux/options.php:593
+msgid "Current Menu Item Background"
+msgstr "Fondo del elemento de menú actual"
+
+#: lib/redux/options.php:594
+msgid "Pick a background color for the current menu item."
+msgstr "Elija un color de fondo para el elemento de menú actual"
+
+#: lib/redux/options.php:599
+msgid "Current Menu Item Link Color"
+msgstr "Menú actual Color del enlace del elemento"
+
+#: lib/redux/options.php:610
+msgid "Current Menu Item Submenu Link Color"
+msgstr "Menú actual Artículo Submenú Color de enlace"
+
+#: lib/redux/options.php:625
+msgid "Submenu Menu Item Background"
+msgstr "Fondo del elemento del submenú"
+
+#: lib/redux/options.php:634
+msgid "Submenu Item Hover Background"
+msgstr "Fondo de elemento emergente de elemento de submenú"
+
+#: lib/redux/options.php:640
+msgid "Submenu Item Link Color"
+msgstr "color del enlace del elemento del submenú"
+
+#: lib/redux/options.php:658
+msgid "Padding Top/Bottom"
+msgstr "Relleno top/bottom"
+
+#: lib/redux/options.php:659 lib/redux/options.php:813
+msgid "Use it to better vertical align the menu"
+msgstr "Úselo para alinear mejor verticalmente el menú"
+
+#: lib/redux/options.php:671
+msgid "Initial Waypoint Scroll Compensation"
+msgstr "Compensación de desplazamiento inicial del Waypoint"
+
+#: lib/redux/options.php:672
+msgid "Enter number only."
+msgstr "Ingrese solo el número."
+
+#: lib/redux/options.php:684
+msgid "Mobile Header"
+msgstr "Cabecera móvil "
+
+#: lib/redux/options.php:692
+msgid "Set logo image"
+msgstr "Establecer imagen de logo"
+
+#: lib/redux/options.php:698
+msgid "Logo Dimensions (Width/Height)"
+msgstr "Dimensiones de el logo (Ancho / Altura)"
+
+#: lib/redux/options.php:713
+msgid "Menu Link Color"
+msgstr "Color de enlace de menú"
+
+#: lib/redux/options.php:729
+msgid "Display Toggle Color"
+msgstr "Mostrar color de alternancia"
+
+#: lib/redux/options.php:739
+msgid "Display Toggle Hover Color"
+msgstr "Mostrar alternar el color de desplazamiento"
+
+#: lib/redux/options.php:748
+msgid "Display Toggle Image"
+msgstr "Mostrar imagen alternar"
+
+#: lib/redux/options.php:751
+msgid "Set the image to replace default 3 lines for menu toggle button."
+msgstr "Set the image to replace default 3 lines for menu toggle button"
+
+#: lib/redux/options.php:757
+msgid "Display Toggle Image Dimensions (Width/Height)"
+msgstr "Mostrar alternar dimensiones de la imagen (ancho / alto)"
+
+#: lib/redux/options.php:765
+msgid "Sticky Header"
+msgstr "Encabezado adhesivo "
+
+#: lib/redux/options.php:770
+msgid "Enable Sticky Menu"
+msgstr "Habilitar menú fijo"
+
+#: lib/redux/options.php:776
+msgid "Sticky Menu Background"
+msgstr "Fondo de menú adhesivo"
+
+#: lib/redux/options.php:794
+msgid "Sticky Menu Link Color"
+msgstr "Enlace de color del menú adhesivo "
+
+#: lib/redux/options.php:812
+msgid "Sticky Menu Padding"
+msgstr "Relleno de menú adhesivo"
+
+#: lib/redux/options.php:828
+msgid "Sticky Header Border Bottom"
+msgstr "Parte inferior del borde del encabezado adhesivo"
+
+#: lib/redux/options.php:851
+msgid "Mega Menu"
+msgstr "Gran Menú"
+
+#: lib/redux/options.php:857
+msgid "Offset Top"
+msgstr "tapa compensada"
+
+#: lib/redux/options.php:858 lib/redux/options.php:869
+msgid "Value in px. Enter number only."
+msgstr "Valor en px. Ingrese solo el número"
+
+#: lib/redux/options.php:867
+msgid "Submenu Top Hover Area"
+msgstr "Submenú Área de desplazamiento superior"
+
+#: lib/redux/options.php:868
+msgid ""
+"The space above the submenu that when hovered on will keep the submenu open."
+msgstr ""
+"El espacio sobre el submenú que cuando está suspendido mantendrá abierto el "
+"submenú."
+
+#: lib/redux/options.php:883
+msgid "Quick Sidebar"
+msgstr "Barra lateral rápida"
+
+#: lib/redux/options.php:889
+msgid "Enable Quick Sidebar"
+msgstr "Habilitar Quick Sidebar"
+
+#: lib/redux/options.php:900
+msgid "Page Title"
+msgstr "Título de página "
+
+#: lib/redux/options.php:906
+msgid "Layout"
+msgstr "Diseño"
+
+#: lib/redux/options.php:918
+msgid "Pick a background color for the page title."
+msgstr "Elija un color de fondo para el título de la página"
+
+#: lib/redux/options.php:927
+msgid "Min Height"
+msgstr "Altura mínima "
+
+#: lib/redux/options.php:939
+msgid "Page Title Font"
+msgstr "Fuente del título de la página"
+
+#: lib/redux/options.php:940
+msgid "Specify the page title font properties."
+msgstr "Especifique las propiedades de la fuente del título de la página"
+
+#: lib/redux/options.php:961
+msgid "Page Title Margin"
+msgstr "Margen del título de la página"
+
+#: lib/redux/options.php:974
+msgid "Override Page Title Wrapper Padding"
+msgstr "Sobrescribir el relleno de la envoltura del título de la página"
+
+#: lib/redux/options.php:986
+msgid "Page Title Wrapper Padding"
+msgstr "Relleno de la envoltura del título de la página"
+
+#: lib/redux/options.php:1005
+msgid "Breadcrumbs"
+msgstr "Migas de pan "
+
+#: lib/redux/options.php:1010 lib/redux/options.php:1105
+#: lib/redux/options.php:1267
+msgid "Enable"
+msgstr "Habilitar "
+
+#: lib/redux/options.php:1016
+msgid "Position"
+msgstr "Posición"
+
+#: lib/redux/options.php:1050
+msgid "Links Color"
+msgstr "Enlaces de color"
+
+#: lib/redux/options.php:1064
+msgid "Alignment"
+msgstr "Alineación "
+
+#: lib/redux/options.php:1100 lib/redux/options.php:1262
+msgid "Embellishments"
+msgstr "Adornos "
+
+#: lib/redux/options.php:1112 lib/redux/options.php:1274
+msgid "Embellishment Top Background"
+msgstr "Embellishment Top Background"
+
+#: lib/redux/options.php:1121 lib/redux/options.php:1283
+msgid "Embellishment Top Container Height"
+msgstr "Embellecimiento Altura del contenedor superior"
+
+#: lib/redux/options.php:1139 lib/redux/options.php:1301
+msgid "Embellishment Top Container Margin"
+msgstr "Embellishment Top Container Margin"
+
+#: lib/redux/options.php:1140 lib/redux/options.php:1302
+msgid "Use negative top margin to pull it up."
+msgstr "Use el margen superior negativo para levantarlo"
+
+#: lib/redux/options.php:1156 lib/redux/options.php:1318
+msgid "Embellishment Bottom Background"
+msgstr "Fondo del adorno"
+
+#: lib/redux/options.php:1165 lib/redux/options.php:1327
+msgid "Embellishment Bottom Container Height"
+msgstr "Embellecedor Altura del contenedor inferior"
+
+#: lib/redux/options.php:1183 lib/redux/options.php:1345
+msgid "Embellishment Bottom Container Margin"
+msgstr "Embellishment Margen de contenedor inferior"
+
+#: lib/redux/options.php:1184
+msgid "Use negative bottom margin to pull it down."
+msgstr "Use el margen inferior negativo para tirar hacia abajo."
+
+#: lib/redux/options.php:1214
+msgid "Pick a background color for the content"
+msgstr "Elija un color de fondo para el contenido"
+
+#: lib/redux/options.php:1235
+msgid "Content Width"
+msgstr "Ancho del contenido"
+
+#: lib/redux/options.php:1236 lib/redux/options.php:1248
+msgid "Drag the slider to change menu width grid steps."
+msgstr "Drag the slider to change menu width grid steps."
+
+#: lib/redux/options.php:1237 lib/redux/options.php:1249
+msgid "The grid has 12 steps."
+msgstr ""
+"El espacio sobre el submenú que cuando está suspendido mantendrá abierto el "
+"submenú."
+
+#: lib/redux/options.php:1247
+msgid "Sidebar Width"
+msgstr "Ancho de la barra lateral"
+
+#: lib/redux/options.php:1346
+msgid "Use negative bottom margin to pull it up."
+msgstr "Use el margen inferior negativo para levantarlo"
+
+#: lib/redux/options.php:1368
+msgid "Blog/Archive"
+msgstr "Blog/Archivo"
+
+#: lib/redux/options.php:1374
+msgid "Post Excerpt Length"
+msgstr "Longitud del extracto del post"
+
+#: lib/redux/options.php:1375
+msgid "This setting will be applied to any section using post excerpt"
+msgstr ""
+"Esta configuración se aplicará a cualquier sección utilizando extracto de "
+"post"
+
+#: lib/redux/options.php:1383
+msgid "Archive Page Subtitle"
+msgstr "Subtítulo de la página de archivo"
+
+#: lib/redux/options.php:1388
+msgid "Archive Layout"
+msgstr "Diseño de archivo "
+
+#: lib/redux/options.php:1402
+msgid "Blog/Archive Single"
+msgstr "Blog/Archivo Solo"
+
+#: lib/redux/options.php:1408
+msgid "Is Boxed?"
+msgstr "¿Está en caja?"
+
+#: lib/redux/options.php:1416
+msgid "Sidebar on the Left?"
+msgstr "¿Barra lateral a la izquierda?"
+
+#: lib/redux/options.php:1424
+msgid "Use Share This buttons?"
+msgstr "¿Usa los botones de Compartir? "
+
+#: lib/redux/options.php:1432
+msgid "Use Page Title?"
+msgstr "¿Usa el titulo de la página?"
+
+#: lib/redux/options.php:1448
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+#: lib/redux/options.php:1454
+msgid "Use Sidebar?"
+msgstr "¿Usa la barra lateral?"
+
+#: lib/redux/options.php:1462
+msgid "Items Per Page"
+msgstr "Artículos por página"
+
+#: lib/redux/options.php:1478
+msgid "Footer"
+msgstr ""
+
+#: lib/redux/options.php:1486
+msgid "Pick a background color for the footer."
+msgstr "Elija un color de fondo para el pie de página"
+
+#: lib/redux/options.php:1502
+msgid "Misc"
+msgstr "Miscelánea "
+
+#: lib/redux/options.php:1508
+msgid "Google Maps API Key"
+msgstr ""
+
+#: lib/redux/options.php:1510
+msgid "Enter GMaps API key"
+msgstr "Ingrese la clave de la API de GMaps"
+
+#: lib/redux/options.php:1515
+msgid "Select Preloader Spinner"
+msgstr "Seleccionar hilandero preloader"
+
+#: lib/redux/options.php:1531
+msgid "Preloader Background Color"
+msgstr "Color de fondo precargado"
+
+#: lib/redux/options.php:1543 lib/redux/options.php:1577
+msgid "Scroll to Top Button"
+msgstr "Desplazarse al botón superior"
+
+#: lib/redux/options.php:1548
+msgid "Use Scroll to Top Button?"
+msgstr "¿Usa el botón para desplazarse hacia arriba? "
+
+#: lib/redux/options.php:1556
+msgid "Scroll to Top Text"
+msgstr "Desplazarse al texto superior"
+
+#: lib/redux/options.php:1565
+msgid "Override Scroll to Top Button?"
+msgstr "¿anular el desplazamiento al botón superior?"
+
+#: lib/redux/options.php:1589
+msgid "Dimensions (Width/Height)"
+msgstr "Dimensiones (ancho / alto)"
+
+#: lib/redux/options.php:1606
+msgid "Text Direction"
+msgstr "Text Direction"
+
+#: lib/redux/options.php:1611
+msgid "Enable RTL?"
+msgstr "Activar RTL?"
+
+#: lib/redux/options.php:1624
+msgid "Other Settings"
+msgstr "Otras configuraciones "
+
+#: lib/redux/options.php:1630
+msgid ""
+"If you have made edits to the code and wish to see the original code click "
+"on the link bellow. If you wish to completely restore the original code "
+"either copy this reference code to the editor bellow or reset the section."
+msgstr ""
+"Si ha realizado modificaciones en el código y desea ver el código original, "
+"haga clic en el siguiente enlace. Si desea restaurar completamente el código "
+"original, copie este código de referencia en el editor siguiente o "
+"restablezca la sección."
+
+#: lib/redux/redux-settings.php:265
+msgid ""
+"It looks like your upload folder isn't writable, so PHP couldn't make any "
+"changes (CHMOD)."
+msgstr ""
+"Parece que tu carpeta de carga no tiene permiso de escritura, por lo que PHP "
+"no pudo realizar ningún cambio (CHMOD)"
+
+#: lib/redux/redux-settings.php:265
+msgid "Cannot write to file"
+msgstr "No se puede escribir en el archivo "
+
+#: lib/redux/redux-settings.php:290 lib/redux/redux-settings.php:291
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: lib/titles.php:13
+msgid "Latest Posts"
+msgstr "Ùltimas publicaciones"
+
+#: lib/titles.php:30
+msgid "Daily Archives: %s"
+msgstr "Archivos diarios: %s"
+
+#: lib/titles.php:32
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales "
+
+#: lib/titles.php:34
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: \"%s\""
+
+#: lib/titles.php:37
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: lib/titles.php:39 lib/titles.php:46 templates/searchform-courses-small.php:2
+msgid "Search Courses"
+msgstr "Buscar cursos"
+
+#: lib/titles.php:44
+msgid "Search Results for %s"
+msgstr "Resultados de Búsqueda para &#8220;%s&#8221;"
+
+#: lib/titles.php:48
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: lib/vc-templates.php:8
+msgid "AISLIN - (Page) Home"
+msgstr ""
+
+#: lib/vc-templates.php:32
+msgid "AISLIN - (Page) About Us"
+msgstr "AISLIN - (Page) Sobre nosotros "
+
+#: lib/vc-templates.php:43
+msgid "AISLIN - (Page) At a glance"
+msgstr "AISLIN - (Page) De un vistazo "
+
+#: lib/vc-templates.php:56
+msgid "AISLIN - (Page) Vision and mission"
+msgstr "AISLIN - (Page) Visión y misión "
+
+#: lib/vc-templates.php:78
+msgid "AISLIN - (Page) Contact"
+msgstr "AISLIN - (Page) Contacto"
+
+#: lib/vc-templates.php:97
+msgid "AISLIN - (Page) Gallery"
+msgstr "AISLIN - (Page) Galeria "
+
+#: lib/vc-templates.php:106
+msgid "AISLIN - (Page) Gallery alt"
+msgstr "AISLIN - (Page) Galeria alt "
+
+#: lib/vc-templates.php:115
+msgid "AISLIN - (Page) Gallery icon"
+msgstr "AISLIN - (Page) Icono de galeria "
+
+#: lib/vc-templates.php:124
+msgid "AISLIN - (Page) Principal's message"
+msgstr "AISLIN - (Page) Mensaje principal "
+
+#: lib/vc-templates.php:146
+msgid "AISLIN - (Page) History"
+msgstr "AISLIN - (Page) Historia "
+
+#: lib/vc-templates.php:167
+msgid "AISLIN - (Page) Faculty and staff"
+msgstr "AISLIN - (Page) Profesores y personal "
+
+#: lib/vc-templates.php:178
+msgid "AISLIN - (Page) Accreditation"
+msgstr "AISLIN - (Page) Acreditación "
+
+#: lib/vc-templates.php:190
+msgid "AISLIN - (Page) Map and directions"
+msgstr "AISLIN - (Page) Direcciones y Mapas"
+
+#: lib/vc-templates.php:201 lib/vc-templates.php:447
+msgid "AISLIN - (Page) Academics"
+msgstr "AISLIN - (Page) Académica "
+
+#: lib/vc-templates.php:221
+msgid "AISLIN - (Page) Preschool"
+msgstr "AISLIN - (Page) Preescolar"
+
+#: lib/vc-templates.php:230
+msgid "AISLIN - (Page) Elementary"
+msgstr "AISLIN - (Page) Elemental "
+
+#: lib/vc-templates.php:241
+msgid "AISLIN - (Page) School fee"
+msgstr "AISLIN - (Page) Cuotas escolares"
+
+#: lib/vc-templates.php:251
+msgid "AISLIN - (Page) Middle school"
+msgstr "AISLIN - (Page) Escuela intermedia "
+
+#: lib/vc-templates.php:272
+msgid "AISLIN - (Page) Graduate"
+msgstr "AISLIN - (Page) Graduado "
+
+#: lib/vc-templates.php:292
+msgid "AISLIN - (Page) School life"
+msgstr "AISLIN - (Page) Vida escolar  "
+
+#: lib/vc-templates.php:301
+msgid "AISLIN - (Page) School menu"
+msgstr "AISLIN - (Page) Menú Colegio "
+
+#: lib/vc-templates.php:310
+msgid "AISLIN - (Page) Transport"
+msgstr "AISLIN - (Page) Transporte"
+
+#: lib/vc-templates.php:319
+msgid "AISLIN - (Page) Athletics"
+msgstr "AISLIN - (Page) Atletismo "
+
+#: lib/vc-templates.php:329
+msgid "AISLIN - (Page) Art"
+msgstr ""
+
+#: lib/vc-templates.php:341
+msgid "AISLIN - (Page) After school"
+msgstr "AISLIN - (Page) Después del colegio "
+
+#: lib/vc-templates.php:350
+msgid "AISLIN - (Page) Single class"
+msgstr "AISLIN - (Page) Entrada class"
+
+#: lib/vc-templates.php:376
+msgid "AISLIN - (Page) Single class alt"
+msgstr "AISLIN - (Page) Entrada class alt"
+
+#: lib/vc-templates.php:421
+msgid "AISLIN - (Page) Admission"
+msgstr "AISLIN - (Page) Admisiones "
+
+#: lib/vc-templates.php:468
+msgid "AISLIN - (Page) Home Alt"
+msgstr ""
+
+#: lib/vc-templates.php:497
+msgid "AISLIN - (Page) Demo"
+msgstr ""
+
+#: lib/vc-templates.php:514
+msgid "AISLIN - (Layout Block) Header"
+msgstr "AISLIN - (Page) Cabecera"
+
+#: lib/vc-templates.php:523
+msgid "AISLIN - (Layout Block) Footer"
+msgstr "AISLIN - (Page) Pie de página "
+
+#: lib/vc-templates.php:540
+msgid "AISLIN - (Layout Block) Header Alt"
+msgstr "AISLIN - (Page) Cabecera Alt"
+
+#: lib/vc-templates.php:549
+msgid "AISLIN - (Layout Block) Mobile Header"
+msgstr "AISLIN - (Page) Cabecera móvil"
+
+#: lib/vc-templates.php:558
+msgid "AISLIN - (Mega Menu) News"
+msgstr "AISLIN - (Page) News"
+
+#: lib/vc-templates.php:567
+msgid "AISLIN - (Mega Menu) Wide"
+msgstr "AISLIN - (Page) Wide "
+
+#: lib/vc-templates.php:576
+msgid "AISLIN - (Mega Menu) Contact"
+msgstr "AISLIN - (Page) Contacto "
+
+#: templates/author-bio.php:14
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: templates/comment.php:9
+msgid "%1$s"
+msgstr "%1$s"
+
+#: templates/comment.php:14
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: templates/comment.php:19
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser aceptado."
+
+#: templates/comments.php:8
+msgid "1 Comment:"
+msgid_plural "%1$s Comments:"
+msgstr[0] "1 Comentario:"
+msgstr[1] "%1$s  Comentarios:"
+
+#: templates/comments.php:17
+msgid "&larr; Older comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: templates/comments.php:20
+msgid "Newer comments &rarr;"
+msgstr "Comentarios más nuevos &rarr; "
+
+#: templates/comments.php:28 templates/comments.php:37
+msgid "Comments are closed."
+msgstr "los comentarios están cerrados"
+
+#: templates/comments.php:44
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: templates/comments.php:44
+msgid "Leave a Reply to %s"
+msgstr "Dejar una respuesta a %s"
+
+#: templates/comments.php:47
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"Su correo electrónico no fue enviado. Los campos obligatorios están marcados "
+"con*"
+
+#: templates/comments.php:51
+msgid "You must be logged in"
+msgstr "Usted debe estar conectado "
+
+#: templates/comments.php:53
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: templates/comments.php:53
+msgid "Log in &raquo;"
+msgstr "Iniciar sesión &raquo;"
+
+#: templates/comments.php:59
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: templates/comments.php:61
+msgid "Log out of this account"
+msgstr "Salir de esta cuenta"
+
+#: templates/comments.php:61
+msgid "Log out &raquo;"
+msgstr "Cerrar sesión &raquo;"
+
+#: templates/comments.php:72
+msgid "Name"
+msgstr "Nombre "
+
+#: templates/comments.php:83
+msgid "Email"
+msgstr "Correo electrónico  "
+
+#: templates/comments.php:91
+msgid "Website"
+msgstr "Sitio Web "
+
+#: templates/comments.php:101
+msgid "Comment"
+msgstr "Comentario"
+
+#: templates/comments.php:109
+msgid "Submit Comment"
+msgstr "Enviar contenido "
+
+#: templates/content-none.php:8 templates/search-none.php:8
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: templates/content-none.php:11
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Disculpa, pero no hemos encontrado los resultados, Tal vez la herramienta "
+"buscar te ayudará a encontrar alguna publicación relacionada. "
+
+#: templates/content-project.php:22 templates/content-teacher.php:22
+msgid "Meet us on:"
+msgstr "Encuéntranos en: "
+
+#: templates/content-single-teacher.php:31
+msgid "Meet me on"
+msgstr "Encuéntrame en"
+
+#: templates/content-single.php:20
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: templates/content-single.php:25
+msgid "Previous"
+msgstr "Anterior"
+
+#: templates/content-single.php:29
+msgid "Next"
+msgstr "Siguiente "
+
+#: templates/content-single.php:48
+msgid "Author"
+msgstr "Autor "
+
+#: templates/content.php:15
+msgid "Read more"
+msgstr "Leer más"
+
+#: templates/quick-sidebar.php:32
+msgid "Keep Connected"
+msgstr "Mantente conectado "
+
+#: templates/search-none.php:12
+msgid "Apologies, but no results were found."
+msgstr "Disculpa, no hemos encontrado los resultados."
+
+#: templates/searchform-courses-big.php:25
+msgid "Course Status"
+msgstr "Estado del curso"
+
+#: templates/searchform-courses-big.php:27
+msgid "Free"
+msgstr "Gratis"
+
+#: templates/searchform-courses-big.php:29
+msgid "Paid"
+msgstr "Pagado"
+
+#: templates/searchform-courses-big.php:35
+msgid "Type Keyword"
+msgstr "Tipo de palabra clave"
+
+#: templates/searchform-courses-big.php:38
+#: templates/searchform-courses-small.php:4 templates/searchform.php:2
+msgid "Search"
+msgstr "Buscar"
+
+#: templates/searchform.php:3
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: tribe-events/single-event.php:23
+msgid "&laquo; All Events"
+msgstr "&laquo; Todos los eventos"
+
+#: tribe-events/single-event.php:45 tribe-events/single-event.php:90
+msgid "Event Navigation"
+msgstr "Navegación de eventos"
+
+#: woocommerce/custom/init.php:69
+msgid "View your shopping cart"
+msgstr "Mire su carrito de compras"
+
+#: woocommerce/custom/init.php:70
+msgid "Start shopping"
+msgstr "Empieza a comprar"
+
+#: woocommerce/custom/init.php:75
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#. Theme Name of the plugin/theme
+msgid "Ed School"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "ed.aislinthemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ed School – Elementary, Middle and Highschool WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "aislin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/Aislin/portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Boxed"
+msgstr "Caja"
+
+#. Template Name of the plugin/theme
+msgid "Full Width No Container No Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width No Container"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width - No Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Boxed"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home (No Footer)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Transparent Header Boxed"
+msgstr "Inicio encabezado transparente en caja"
+
+#. Template Name of the plugin/theme
+msgid "Home Transparent Header"
+msgstr "Encabezado transparente de inicio"
+
+#. Template Name of the plugin/theme
+msgid "Sidebar - Left with Child Pages"
+msgstr "Barra lateral: izquierda con páginas secundarias"
+
+#. Template Name of the plugin/theme
+msgid "Sidebar - Left"
+msgstr ""
+"Barra lateral - izquierda\n"
+
+#. Template Name of the plugin/theme
+msgid "Sidebar - Right with Child Pages"
+msgstr "Barra lateral: derecha con páginas secundarias"
+
+#: lib/extras.php:185
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr "%1$s en %2$s"
+
+#: lib/extras.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""

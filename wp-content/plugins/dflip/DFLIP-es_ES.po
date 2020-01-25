@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dflip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 15:30+0000\n"
+"PO-Revision-Date: 2018-06-27 15:39+0000\n"
+"Last-Translator: Comunicaciones Colegio <webmaster@acreativa.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/post-type.php:50 inc/post-type.php:51
+msgid "Add New Book"
+msgstr "Agregar nuevo libro"
+
+#: inc/metaboxes.php:309
+msgid "Add New Page"
+msgstr "Agregar nueva página"
+
+#: inc/metaboxes.php:304
+msgid ""
+"Add or remove pages as per your requirement. Plus reorder them in the order "
+"needed."
+msgstr ""
+"Añada o elimine las páginas según su requerimiento. Además de reordenar en "
+"el orden necesario."
+
+#: inc/post-type.php:55
+msgid "All Books"
+msgstr "Todos los libros"
+
+#: dflip.php:239
+msgid "All Pages"
+msgstr "Todas las páginas"
+
+#: dflip.php:329 dflip.php:342
+msgid "Auto"
+msgstr "Automático"
+
+#: dflip.php:344
+msgid "Booklet Mode"
+msgstr "Modo de folletos"
+
+#: inc/metaboxes.php:154
+msgid "Button"
+msgstr "Botón"
+
+#: inc/metaboxes.php:339
+msgid "Content"
+msgstr "Contenido"
+
+#: dflip.php:238
+msgid "Cover Pages"
+msgstr "Páginas de portada"
+
+#: inc/metaboxes.php:462
+#, php-format
+msgid ""
+"Create a tree structure bookmark/outline of your book for easy access:<br>%s"
+msgstr ""
+"Cree un marcador / estructura de árbol de su libro para facilitar el acceso: "
+"<br>% s"
+
+#: dflip.php:229
+msgid "CSS 3D/2D"
+msgstr "CSS 3D/2D"
+
+#: inc/metaboxes.php:300
+msgid "Custom Pages"
+msgstr "Páginas personalizadas"
+
+#: inc/post-type.php:152
+msgid "Date"
+msgstr "Fecha"
+
+#. Author of the plugin
+msgid "Deepak Ghimire"
+msgstr ""
+
+#: inc/post-type.php:64
+msgid "Description."
+msgstr "Descripción:"
+
+#. Name of the plugin
+msgid "dflip"
+msgstr "dflip"
+
+#. Description of the plugin
+msgid "dflip - 3D & 2D FlipBook"
+msgstr "dflip - 3D & 2D FlipBook"
+
+#: inc/post-type.php:46 inc/post-type.php:47 inc/post-type.php:49
+msgid "dFlip Book"
+msgstr "Libro"
+
+#: inc/post-type.php:48
+msgid "dFlip Books"
+msgstr "Libros"
+
+#: inc/metaboxes.php:113 inc/settings.php:79
+msgid "dFlip Settings"
+msgstr "Configuración"
+
+#: dflip.php:411
+msgid "Div Background"
+msgstr "Color de fondo"
+
+#: dflip.php:331
+msgid "Double Page"
+msgstr "Página doble"
+
+#: inc/post-type.php:53
+msgid "Edit dFlip Book"
+msgstr "Editar Libro"
+
+#: dflip.php:127 dflip.php:207 dflip.php:218 dflip.php:259 dflip.php:299
+#: dflip.php:310 dflip.php:320 dflip.php:382 dflip.php:394
+msgid "False"
+msgstr "Falso"
+
+#: inc/settings.php:97
+msgid "General"
+msgstr "General"
+
+#: dflip.php:205 dflip.php:216 dflip.php:227 dflip.php:237 dflip.php:341
+#: dflip.php:353 dflip.php:367 dflip.php:380 dflip.php:392
+msgid "Global Setting"
+msgstr "Configuración Global"
+
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/deip?ref=deip"
+msgstr " "
+
+#: dflip.php:412
+msgid "Image"
+msgstr "Imagen"
+
+#: dflip.php:270
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/post-type.php:151
+msgid "Last Modified"
+msgstr "Última modificación"
+
+#: inc/metaboxes.php:238
+msgid "Layout"
+msgstr "Diseño"
+
+#: dflip.php:249
+msgid "Left to Right"
+msgstr "De izquierda a derecha"
+
+#: inc/post-type.php:52
+msgid "New dFlip Book"
+msgstr "Nuevo Libro"
+
+#: inc/post-type.php:59
+msgid "No dFlip Books found in Trash."
+msgstr "No se encontraron Libros en la Papelera."
+
+#: inc/post-type.php:58
+msgid "No dFlip-Books found."
+msgstr "No se encontraron Libros."
+
+#: dflip.php:240
+msgid "None"
+msgstr "Nada"
+
+#: inc/metaboxes.php:152
+msgid "Normal"
+msgstr "Normal"
+
+#: dflip.php:343
+msgid "Normal Zoom"
+msgstr "Zoom Normal"
+
+#: inc/metaboxes.php:239
+msgid "Outline"
+msgstr "Contorno"
+
+#: inc/post-type.php:57
+msgid "Parent dFlip Books:"
+msgstr "Libro Padre:"
+
+#: dflip.php:269
+msgid "PDF File"
+msgstr "Archivo PDF"
+
+#: dflip.php:250
+msgid "Right to Left"
+msgstr "De derecha a izquierda"
+
+#: inc/post-type.php:56
+msgid "Search dFlip Books"
+msgstr "Buscar Libros"
+
+#: inc/settings.php:79
+msgid "Settings"
+msgstr "Configuración"
+
+#: inc/settings.php:540
+msgid "Settings updated."
+msgstr "Configuración actualizada."
+
+#: inc/metaboxes.php:115 inc/post-type.php:150
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: dflip.php:330
+msgid "Single Page"
+msgstr "Única página"
+
+#: inc/metaboxes.php:237
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/metaboxes.php:153
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: inc/metaboxes.php:330 inc/post-type.php:149
+msgid "Title"
+msgstr "Título"
+
+#: inc/settings.php:98
+msgid "Translate"
+msgstr "Traducir"
+
+#: dflip.php:126 dflip.php:206 dflip.php:217 dflip.php:258 dflip.php:298
+#: dflip.php:309 dflip.php:319 dflip.php:381 dflip.php:393
+msgid "True"
+msgstr "Verdadero"
+
+#: inc/settings.php:110
+msgid "Update Settings"
+msgstr "Ajustes de actualización"
+
+#: inc/metaboxes.php:117
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+#: inc/post-type.php:54
+msgid "View dFlip Book"
+msgstr "Ver Libro"
+
+#: dflip.php:228
+msgid "WebGL 3D"
+msgstr "WebGL 3D"

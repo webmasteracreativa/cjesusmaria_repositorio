@@ -1,0 +1,245 @@
+# Translation of Plugins - Plugin Organizer - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Plugin Organizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-29 16:40:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Plugin Organizer - Stable (latest release)\n"
+
+#: lib/PluginOrganizer.class.php:1141
+msgid "Post Type Override"
+msgstr "Sobreescribir tipo de contenido"
+
+#. Description of the plugin
+msgid "A plugin to disable plugins on indivudual pages and change the order that they are loaded in."
+msgstr "Un plugin que desactiva plugins en páginas individuales y cambia el orden en el que se cargan."
+
+#: lib/PluginOrganizer.class.php:1157
+msgid "Active Sites"
+msgstr "Sitios activos"
+
+#. Author URI of the plugin
+msgid "https://www.sterupdesign.com"
+msgstr "https://www.sterupdesign.com"
+
+#: lib/PluginOrganizer.class.php:1945
+msgid "Plugin Group scheduled for: <strong>%1$s</strong>."
+msgstr "Grupo de plugins programado para: <strong>%1$s</strong>."
+
+#: lib/PluginOrganizer.class.php:1928
+msgid "Plugin Filter scheduled for: <strong>%1$s</strong>."
+msgstr "Filtro de plugin programado para: <strong>%1$s</strong>."
+
+#: lib/PluginOrganizer.class.php:1926 lib/PluginOrganizer.class.php:1943
+msgid "theme saved."
+msgstr "tema guardado."
+
+#: lib/PluginOrganizer.class.php:1925
+msgid "Plugin Filter published."
+msgstr "Filtro de plugin publicado."
+
+#: lib/PluginOrganizer.class.php:1920 lib/PluginOrganizer.class.php:1937
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: lib/PluginOrganizer.class.php:1894
+msgid "New Plugin Group"
+msgstr "Nuevo grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1895
+msgid "View Plugin Group"
+msgstr "Ver grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1893
+msgid "Edit Plugin Group"
+msgstr "Editar grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1896
+msgid "Search Plugin Group"
+msgstr "Buscar grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1865
+msgid "New Plugin Filter"
+msgstr "Nuevo filtro de plugin"
+
+#: lib/PluginOrganizer.class.php:1864
+msgid "Edit Plugin Filter"
+msgstr "Editar filtro de plugin"
+
+#: lib/PluginOrganizer.class.php:1863
+msgid "Add New Plugin Filter"
+msgstr "Añadir nuevo filtro de plugin"
+
+#: lib/PluginOrganizer.class.php:1187
+msgid "Groups"
+msgstr "Grupos"
+
+#: lib/PluginOrganizer.class.php:1120
+msgid "Permalinks"
+msgstr "Enlace permanente"
+
+#. Author of the plugin
+msgid "Jeff Sterup"
+msgstr "Jeff Sterup"
+
+#. Plugin Name of the plugin
+msgid "Plugin Organizer"
+msgstr "Plugin Organizer"
+
+#: lib/PluginOrganizer.class.php:1833
+msgctxt "taxonomy singular name"
+msgid "Filter Group"
+msgstr "Grupo de filtros"
+
+#: lib/PluginOrganizer.class.php:1839
+msgid "Update Filter Group"
+msgstr "Actualizar grupo de filtros"
+
+#. translators: Publish box date format, see http://php.net/date
+#: lib/PluginOrganizer.class.php:1948
+msgid "Plugin Group draft updated."
+msgstr "Borrador del grupo de plugins actualizado."
+
+#. translators: Publish box date format, see http://php.net/date
+#: lib/PluginOrganizer.class.php:1930 lib/PluginOrganizer.class.php:1947
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ G:i"
+
+#: lib/PluginOrganizer.class.php:1840
+msgid "Add New Filter Group"
+msgstr "Añadir nuevo grupo de filtros"
+
+#: lib/PluginOrganizer.class.php:1892
+msgid "Add New Plugin Group"
+msgstr "Añadir nuevo grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1862
+msgctxt "neo_theme"
+msgid "Add Plugin Filter"
+msgstr "Añadir filtro de plugin"
+
+#: lib/PluginOrganizer.class.php:1891
+msgctxt "neo_theme"
+msgid "Add Plugin Group"
+msgstr "Añadir grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1835
+msgid "All Filter Groups"
+msgstr "Todos los grupos de filtros"
+
+#: lib/PluginOrganizer.class.php:1866
+msgid "View Plugin Filter"
+msgstr "Ver filtro de plugin"
+
+#: lib/PluginOrganizer.class.php:1834
+msgid "Search Filter Groups"
+msgstr "Buscar filtros de grupos"
+
+#: lib/PluginOrganizer.class.php:1861
+msgctxt "post type singular name"
+msgid "Plugin Filter"
+msgstr "Filtro de plugin"
+
+#: lib/PluginOrganizer.class.php:1898
+msgid "No Plugin Groups found in Trash"
+msgstr "No se han encontrado grupos de plugins en la papelera"
+
+#: lib/PluginOrganizer.class.php:1889
+msgctxt "post type general name"
+msgid "Plugin Groups"
+msgstr "Grupos de plugins"
+
+#: lib/PluginOrganizer.class.php:1919 lib/PluginOrganizer.class.php:1922
+msgid "Plugin Filter updated."
+msgstr "Filtro de plugin actualizado."
+
+#: lib/PluginOrganizer.class.php:1860
+msgctxt "post type general name"
+msgid "Plugin Filters"
+msgstr "Filtros de plugin"
+
+#: lib/PluginOrganizer.class.php:1890
+msgctxt "post type singular name"
+msgid "Plugin Group"
+msgstr "Grupo de plugins"
+
+#: lib/PluginOrganizer.class.php:1927
+msgid "Plugin Filter submitted."
+msgstr "Filtro de plugin enviado."
+
+#: lib/PluginOrganizer.class.php:1944
+msgid "Plugin Group submitted."
+msgstr "Grupo de plugins enviado."
+
+#: lib/PluginOrganizer.class.php:1838
+msgid "Edit Filter Group"
+msgstr "Editar grupo de filtros"
+
+#: lib/PluginOrganizer.class.php:1832
+msgctxt "taxonomy general name"
+msgid "Filter Groups"
+msgstr "Grupos de filtros"
+
+#: lib/PluginOrganizer.class.php:1867
+msgid "Search Plugin Filter"
+msgstr "Búsqueda de filtro de plugin"
+
+#. translators: Publish box date format, see http://php.net/date
+#: lib/PluginOrganizer.class.php:1931
+msgid "Plugin Filter draft updated."
+msgstr "Borrador de filtro de plugin actualizado."
+
+#: lib/PluginOrganizer.class.php:1936 lib/PluginOrganizer.class.php:1939
+msgid "Plugin Group updated."
+msgstr "Grupo de plugins actualizado."
+
+#: lib/PluginOrganizer.class.php:1897
+msgid "No PPlugin Groups found"
+msgstr "No se han encontrado grupos de plugins"
+
+#: lib/PluginOrganizer.class.php:1921 lib/PluginOrganizer.class.php:1938
+msgid "Custom field deleted."
+msgstr "Se ha borrado el campo personalizado."
+
+#. translators: %s: date and time of the revision
+#: lib/PluginOrganizer.class.php:1924
+msgid "Plugin Filter restored to revision from %s"
+msgstr "Filtro de plugin restaurado a revisión desde %s"
+
+#. translators: %s: date and time of the revision
+#: lib/PluginOrganizer.class.php:1941
+msgid "Plugin Group restored to revision from %s"
+msgstr "Grupo de plugins restaurado a revisión desde %s"
+
+#: lib/PluginOrganizer.class.php:1942
+msgid "Plugin Group published."
+msgstr "Grupo de plugins publicado."
+
+#: lib/PluginOrganizer.class.php:1841
+msgid "New Filter Group Name"
+msgstr "Nuevo nombre del grupo de filtros"
+
+#: lib/PluginOrganizer.class.php:1836
+msgid "Parent Filter Group"
+msgstr "Grupo de filtros padre"
+
+#: lib/PluginOrganizer.class.php:1837
+msgid "Parent Filter Group:"
+msgstr "Grupo de filtros padre:"
+
+#: lib/PluginOrganizer.class.php:1868
+msgid "No Plugin Filters found"
+msgstr "No se han encontrado filtros de plugin"
+
+#: lib/PluginOrganizer.class.php:1869
+msgid "No Plugin Filters found in Trash"
+msgstr "No se han encontrado filtros de plugin en la papelera"
+
+#. Plugin URI of the plugin
+msgid "https://www.sterupdesign.com/dev/wordpress/plugins/plugin-organizer/"
+msgstr "https://www.sterupdesign.com/dev/wordpress/plugins/plugin-organizer/"

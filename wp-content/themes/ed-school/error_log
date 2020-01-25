@@ -1,0 +1,4 @@
+[21-May-2019 00:42:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function ed_school_get_option() in /home/jesus5o1/public_html/wp-content/themes/ed-school/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/jesus5o1/public_html/wp-content/themes/ed-school/index.php on line 7

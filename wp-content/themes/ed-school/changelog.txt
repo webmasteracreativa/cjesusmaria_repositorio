@@ -1,0 +1,41 @@
+/* 2017-10-31 v1.2.3 */
+- NEW: Polylang integration
+- UPDATE: Visual Composer 5.4.4
+- UPDATE: Slider Revolution 5.4.6.3.1
+
+/* 2017-11-10 v1.2.2 */
+- FIX: Translate Breadcrumb labels from pot file
+- FIX: VC Role Manager integration
+
+/* 2017-11-07 v1.2.1 */
+- ADD: Translate Breadcrumb labels from pot file
+- FIX: Auto update
+
+/* 2017-10-31 v1.2.0 */
+- UPDATE: Visual Composer 5.4.2
+- UPDATE: Slider Revolution 5.4.6.2
+
+/* 2017-07-28 v1.1.1 */
+- NEW: Highschool Demo 2
+
+/* 2017-07-28 v1.1.0 */
+- NEW: Highschool Demo
+- NEW: VC Addon Hexagon Icon
+- UPDATE: VC Addon Post List - Additional layouts 2, 3
+- UPDATE: VC Addon Events - Additional layouts 2, 3
+- UPDATE: Submenu arrow placement
+- UPDATE: VC Addon Theme Button - Additinal color controls
+
+/* 2017-07-10 v1.0.2 */
+- FIX: Installation video link
+
+/* 2017-06-23 v1.0.1 */
+- FIX: Entry meta author shows public display name
+- FIX: Submenu arrow level alignment css
+
+/* 2017-05-05 v1.0.0 */
+- Initial release
+
+
+
+

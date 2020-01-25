@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'museo9';
+				font-style: normal;
+				src: url('/colegio/wp-content/uploads/useanyfont/180623060459Museo9.eot');
+				src: local('museo9'), url('/colegio/wp-content/uploads/useanyfont/180623060459Museo9.eot') format('embedded-opentype'), url('/colegio/wp-content/uploads/useanyfont/180623060459Museo9.woff') format('woff');
+			}
+            
+            .et_gf_museo9{background:none !important;font-family:museo9;text-indent:0 !important;font-size:25px;}
+            
+		

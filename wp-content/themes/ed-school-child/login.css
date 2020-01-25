@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+body.login {
+	background-color: #f6d8af;
+	font-family: Helvetica;
+}
+
+.login form {
+	background: #eee;
+	border: 1px solid #B7B7B7;
+}
+
+.login form .input,.login input[type=text],.login form input[type=checkbox] {
+	background: #fff;
+	border: 1px solid #B7B7B7;
+	padding: 5px;
+}
+
+.login form .input:hover,.login form .input:focus,.login input[type=text]:hover,.login input[type=text]:focus,.login form input[type=checkbox]:hover,.login form input[type=checkbox]:focus {
+	background: #fff;
+	outline: none;
+}
+
+body.login div#login form#loginform p.submit input#wp-submit {
+    border-radius: 0;
+    background: #ab3332;
+    outline: none;
+    border: none;
+    padding: 2px 35px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 300;
+    text-shadow: none;
+}
+
+body.login div#login p#nav {
+	margin: 20px auto;
+	text-align: center;
+}
+
+body.login div#login p#backtoblog {
+	margin: 0 auto;
+	text-align: center;
+}
+
+body.login div#login p#nav *, body.login div#login p#backtoblog * {
+    font-size: 15px;
+}
+
+.login #nav a:hover,.login #backtoblog a:hover {
+	color: #E54E53;
+}
+
+.login #login_error, .login .message {
+    color: #008712;
+}
+
+.login h1 a {
+	background-size: 120px !important;
+	background-position: center center !important;
+	background-image: url(https://www.jesusmariamed.edu.co/wp-content/uploads/2018/07/logo-m-jesus-maria.png) !important;
+	margin: 0 auto 5px !important;
+	height: 130px !important;
+    width: 130px !important;
+}

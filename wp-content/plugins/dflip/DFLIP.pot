@@ -1,0 +1,250 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dflip\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 15:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/post-type.php:50 inc/post-type.php:51
+msgid "Add New Book"
+msgstr ""
+
+#: inc/metaboxes.php:309
+msgid "Add New Page"
+msgstr ""
+
+#: inc/metaboxes.php:304
+msgid ""
+"Add or remove pages as per your requirement. Plus reorder them in the order "
+"needed."
+msgstr ""
+
+#: inc/post-type.php:55
+msgid "All Books"
+msgstr ""
+
+#: dflip.php:239
+msgid "All Pages"
+msgstr ""
+
+#: dflip.php:329 dflip.php:342
+msgid "Auto"
+msgstr ""
+
+#: dflip.php:344
+msgid "Booklet Mode"
+msgstr ""
+
+#: inc/metaboxes.php:154
+msgid "Button"
+msgstr ""
+
+#: inc/metaboxes.php:339
+msgid "Content"
+msgstr ""
+
+#: dflip.php:238
+msgid "Cover Pages"
+msgstr ""
+
+#: inc/metaboxes.php:462
+#, php-format
+msgid ""
+"Create a tree structure bookmark/outline of your book for easy access:<br>%s"
+msgstr ""
+
+#: dflip.php:229
+msgid "CSS 3D/2D"
+msgstr ""
+
+#: inc/metaboxes.php:300
+msgid "Custom Pages"
+msgstr ""
+
+#: inc/post-type.php:152
+msgid "Date"
+msgstr ""
+
+#. Author of the plugin
+msgid "Deepak Ghimire"
+msgstr ""
+
+#: inc/post-type.php:64
+msgid "Description."
+msgstr ""
+
+#. Name of the plugin
+msgid "dflip"
+msgstr ""
+
+#. Description of the plugin
+msgid "dflip - 3D & 2D FlipBook"
+msgstr ""
+
+#: inc/post-type.php:46 inc/post-type.php:47 inc/post-type.php:49
+msgid "dFlip Book"
+msgstr ""
+
+#: inc/post-type.php:48
+msgid "dFlip Books"
+msgstr ""
+
+#: inc/metaboxes.php:113 inc/settings.php:79
+msgid "dFlip Settings"
+msgstr ""
+
+#: dflip.php:411
+msgid "Div Background"
+msgstr ""
+
+#: dflip.php:331
+msgid "Double Page"
+msgstr ""
+
+#: inc/post-type.php:53
+msgid "Edit dFlip Book"
+msgstr ""
+
+#: dflip.php:127 dflip.php:207 dflip.php:218 dflip.php:259 dflip.php:299
+#: dflip.php:310 dflip.php:320 dflip.php:382 dflip.php:394
+msgid "False"
+msgstr ""
+
+#: inc/settings.php:97
+msgid "General"
+msgstr ""
+
+#: dflip.php:205 dflip.php:216 dflip.php:227 dflip.php:237 dflip.php:341
+#: dflip.php:353 dflip.php:367 dflip.php:380 dflip.php:392
+msgid "Global Setting"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codecanyon.net/user/deip?ref=deip"
+msgstr ""
+
+#: dflip.php:412
+msgid "Image"
+msgstr ""
+
+#: dflip.php:270
+msgid "Images"
+msgstr ""
+
+#: inc/post-type.php:151
+msgid "Last Modified"
+msgstr ""
+
+#: inc/metaboxes.php:238
+msgid "Layout"
+msgstr ""
+
+#: dflip.php:249
+msgid "Left to Right"
+msgstr ""
+
+#: inc/post-type.php:52
+msgid "New dFlip Book"
+msgstr ""
+
+#: inc/post-type.php:59
+msgid "No dFlip Books found in Trash."
+msgstr ""
+
+#: inc/post-type.php:58
+msgid "No dFlip-Books found."
+msgstr ""
+
+#: dflip.php:240
+msgid "None"
+msgstr ""
+
+#: inc/metaboxes.php:152
+msgid "Normal"
+msgstr ""
+
+#: dflip.php:343
+msgid "Normal Zoom"
+msgstr ""
+
+#: inc/metaboxes.php:239
+msgid "Outline"
+msgstr ""
+
+#: inc/post-type.php:57
+msgid "Parent dFlip Books:"
+msgstr ""
+
+#: dflip.php:269
+msgid "PDF File"
+msgstr ""
+
+#: dflip.php:250
+msgid "Right to Left"
+msgstr ""
+
+#: inc/post-type.php:56
+msgid "Search dFlip Books"
+msgstr ""
+
+#: inc/settings.php:79
+msgid "Settings"
+msgstr ""
+
+#: inc/settings.php:540
+msgid "Settings updated."
+msgstr ""
+
+#: inc/metaboxes.php:115 inc/post-type.php:150
+msgid "Shortcode"
+msgstr ""
+
+#: dflip.php:330
+msgid "Single Page"
+msgstr ""
+
+#: inc/metaboxes.php:237
+msgid "Source"
+msgstr ""
+
+#: inc/metaboxes.php:153
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/metaboxes.php:330 inc/post-type.php:149
+msgid "Title"
+msgstr ""
+
+#: inc/settings.php:98
+msgid "Translate"
+msgstr ""
+
+#: dflip.php:126 dflip.php:206 dflip.php:217 dflip.php:258 dflip.php:298
+#: dflip.php:309 dflip.php:319 dflip.php:381 dflip.php:393
+msgid "True"
+msgstr ""
+
+#: inc/settings.php:110
+msgid "Update Settings"
+msgstr ""
+
+#: inc/metaboxes.php:117
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/post-type.php:54
+msgid "View dFlip Book"
+msgstr ""
+
+#: dflip.php:228
+msgid "WebGL 3D"
+msgstr ""
